@@ -1,0 +1,11 @@
+C:\Pradeep\Learning\GitHub\Repo\dotnet-test-app\bin\Debug\netcoreapp3.1\dotnet-test-app.exe
+C:\Pradeep\Learning\GitHub\Repo\dotnet-test-app\bin\Debug\netcoreapp3.1\dotnet-test-app.deps.json
+C:\Pradeep\Learning\GitHub\Repo\dotnet-test-app\bin\Debug\netcoreapp3.1\dotnet-test-app.runtimeconfig.json
+C:\Pradeep\Learning\GitHub\Repo\dotnet-test-app\bin\Debug\netcoreapp3.1\dotnet-test-app.runtimeconfig.dev.json
+C:\Pradeep\Learning\GitHub\Repo\dotnet-test-app\bin\Debug\netcoreapp3.1\dotnet-test-app.dll
+C:\Pradeep\Learning\GitHub\Repo\dotnet-test-app\bin\Debug\netcoreapp3.1\dotnet-test-app.pdb
+C:\Pradeep\Learning\GitHub\Repo\dotnet-test-app\obj\Debug\netcoreapp3.1\dotnet-test-app.csprojAssemblyReference.cache
+C:\Pradeep\Learning\GitHub\Repo\dotnet-test-app\obj\Debug\netcoreapp3.1\dotnet-test-app.AssemblyInfoInputs.cache
+C:\Pradeep\Learning\GitHub\Repo\dotnet-test-app\obj\Debug\netcoreapp3.1\dotnet-test-app.AssemblyInfo.cs
+C:\Pradeep\Learning\GitHub\Repo\dotnet-test-app\obj\Debug\netcoreapp3.1\dotnet-test-app.dll
+C:\Pradeep\Learning\GitHub\Repo\dotnet-test-app\obj\Debug\netcoreapp3.1\dotnet-test-app.pdb
